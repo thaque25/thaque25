@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaque25, a mechanical engineering graduate student working with ground source heat exchangers
+- 👋 Hi, I’m @thaque25, a mechanical engineering graduate student working on ground source heat exchangers
 - 👀 I’m interested in fitness, sports, travel and trying new things
 - 🌱 I’m currently learning machine learning algorithms and development in VB.net and Python
 - 💞️ I’m looking to collaborate on data science or machine learning projects
